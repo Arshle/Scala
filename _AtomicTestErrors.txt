@@ -1,0 +1,18 @@
+46[Error] expected:
+44
+1[Error] expected:
+2
+0[Error] expected:
+8
+100[Error] expected:
+10
+(Cold,Humid)[Error] expected:
+(Temperate,Humid)
+0[Error] expected:
+82
+MonthName[Error] expected:
+January
+1[Error] expected:
+0
+()[Error] expected:
+green
